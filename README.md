@@ -1,17 +1,32 @@
+<p align="center" ><img  src = "20240308_221258_0000.png?raw=true" width = 1000px></p>
 <h1 align="center">Hi 👋, I'm Thevni Thinesa</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A Passionate Frontend developer from Sri Lanka</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thevni-thinesa&label=Profile%20views&color=0e75b6&style=flat" alt="thevni-thinesa" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thevni-thinesa&label=Profile%20views&color=0e75b6&style=flat" alt="thevni-thinesa" /> </p>
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thevni-thinesa" alt="thevni-thinesa" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **React, Angular**
+
+- 🧑‍🎓 I’m an Undergraduate at **NIBM**
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **thevni.lianhua@gmail.com**
+
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="200" src="saveen-banner.gif">
+
+  </td>
+</tr>
+</table>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
