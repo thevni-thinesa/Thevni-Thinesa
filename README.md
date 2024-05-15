@@ -17,7 +17,9 @@
 
 
 ---
-
+<p align="center">
+  <img src="thevni.gif" alt="thevni-thinesa">
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
