@@ -3,7 +3,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thevni-thinesa&label=Profile%20views&color=0e75b6&style=flat" alt="thevni-thinesa" /> </p>
 
 ---
-<div align="center">
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
 
 🌱 I’m currently learning **React, Angular**
 
@@ -13,13 +16,17 @@
 
 📫 How to reach me **thevni.lianhua@gmail.com**
   
-</div>
+  </td>
+  <td>
+  <p align="center">
+  <img src="thevni.gif" alt="thevni-thinesa" height="200" width="200">
+  </p>
+  </td>
+  </tr>
+  </table>
 
 
 ---
-<p align="center">
-  <img src="thevni.gif" alt="thevni-thinesa">
-</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
