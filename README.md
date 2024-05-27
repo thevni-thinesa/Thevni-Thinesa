@@ -19,7 +19,7 @@
   </td>
   <td>
   <p align="center">
-  <img src="thevni.gif" alt="thevni-thinesa" height="100" width="200">
+  <img src="thevni.gif" alt="thevni-thinesa" height="150" width="200">
   </p>
   </td>
   </tr>
