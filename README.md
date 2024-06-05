@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="thevnibanner.png" alt="thevbanner" width="1000" height="150">
+  <img src="thevnibanner.png" alt="thevbanner" width="1000" height="100">
 </p>
 <h1 align="center">Hi 👋, I'm Thevni Thinesa</h1>
 <h3 align="center">A Passionate Frontend developer from Sri Lanka</h3>
