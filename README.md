@@ -37,6 +37,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/thevni-thinesa-2b066a240/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thevni-thinesa" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100092198140103&mibextid=ZbWKwL" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thevni thinesa" height="30" width="40" /></a>
+<a href="thevni.lianhua@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="thevni thinesa" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
