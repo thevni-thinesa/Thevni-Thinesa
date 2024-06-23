@@ -11,7 +11,7 @@
 
 <td>
   <p align="center">
-    <img src="thevni.gif" alt="thevni-thinesa" height="200" width="300">
+    <img src="thevni.gif" alt="thevni-thinesa" height="250" width="300">
   </p>
 </td>
 
