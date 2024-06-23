@@ -9,6 +9,12 @@
 
 ---
 
+<td>
+  <p align="center">
+    <img src="thevni.gif" alt="thevni-thinesa" height="200" width="300">
+  </p>
+</td>
+
 <table align="center">
   <tr border="none">
     <td align="center">
@@ -22,11 +28,11 @@
 📫 How to reach me **thevni.lianhua@gmail.com**
   
   </td>
-  <td>
+  <!--<td>
     <p align="center">
-      <img src="thevni.gif" alt="thevni-thinesa" height="150" width="200">
+      <img src="thevni.gif" alt="thevni-thinesa" height="155" width="200">
     </p>
-  </td>
+  </td>-->
   <td>
     <h3 align="center">Connect with me:</h3>
     <p align="center">
