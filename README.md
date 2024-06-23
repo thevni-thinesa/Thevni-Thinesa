@@ -11,7 +11,7 @@
 
 <table align="center">
   <tr border="none">
-    <td width="40%" align="center">
+    <td align="center">
 
 🌱 I’m currently learning **React, Angular**
 
