@@ -9,11 +9,11 @@
 
 ---
 
-<td>
+<!--<td>
   <p align="center">
     <img src="thevni.gif" alt="thevni-thinesa" height="250" width="300">
   </p>
-</td>
+</td>-->
 
 <table align="center">
   <tr border="none">
