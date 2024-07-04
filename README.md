@@ -14,7 +14,7 @@
   </p>
 </td>-->
 <div>
-  <img align="left" alt="Coding" width="250" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
+  <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
 </div>
 
 <table align="center">
@@ -53,7 +53,7 @@
 <a href="https://www.linkedin.com/in/thevni-thinesa-2b066a240/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thevni-thinesa" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100092198140103&mibextid=ZbWKwL" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thevni thinesa" height="30" width="40" /></a>
 </p>-->
-<table>
+<table align="center">
   <tr border="none">
     <td>
         <h3 align="center">Software Tools:</h3>
