@@ -4,10 +4,11 @@
   <img src="thevnibanner.png" alt="thevbanner" width="1000px">
 </p>
 <h1 align="center">Hi 👋, I'm Thevni Thinesa</h1>
+<div>
+  <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
+</div>
 <h3 align="center">A Passionate Frontend developer from Sri Lanka</h3>
 <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=thevni-thinesa&label=Profile%20views&color=0e75b6&style=flat" alt="thevni-thinesa" /> </p>-->
-
----
 
 <!--<td>
   <p align="center">
