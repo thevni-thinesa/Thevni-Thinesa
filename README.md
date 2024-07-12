@@ -5,6 +5,8 @@
 </p>
 <h1 align="center">Hi 👋, I'm Thevni Thinesa</h1>
 
+
+
   <h3 align="center">A Passionate Frontend developer from Sri Lanka</h3>
 <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=thevni-thinesa&label=Profile%20views&color=0e75b6&style=flat" alt="thevni-thinesa" /> </p>-->
 
