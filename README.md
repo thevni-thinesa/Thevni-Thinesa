@@ -67,7 +67,7 @@
         <h3 align="center">Languages and Tools:</h3>
         <table align="center" border="none">
           <tr>
-            <th>Programming Language</th>
+            <th>Programming <br> Language</th>
             <th>Frontend</th>
             <th>Mobile</th>
             <th>Database</th>
