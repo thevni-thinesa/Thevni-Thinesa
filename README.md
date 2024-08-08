@@ -1,21 +1,31 @@
 <!--Thevni Thinesa-->
 
-<p align="center">
+<!--<p align="center">
   <img src="thevnibanner.png" alt="thevbanner" width="1000px">
-</p>
+</p>-->
+
 <h1 align="center">Hi 👋, I'm Thevni Thinesa</h1>
 
   <h3 align="center">A Passionate Frontend developer from Sri Lanka</h3>
+
+
+  
 <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=thevni-thinesa&label=Profile%20views&color=0e75b6&style=flat" alt="thevni-thinesa" /> </p>-->
+
+
 
 <!--<td>
   <p align="center">
     <img src="thevni.gif" alt="thevni-thinesa" height="250" width="300">
   </p>
 </td>-->
-<div>
-  <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
-</div>
+
+
+
+
+
+
+
 
 <table align="center">
   <tr border="none">
@@ -36,15 +46,19 @@
     </p>
   </td>-->
   <td>
-    <h3 align="center">Connect with me:</h3>
-    <p align="center">
-    <a href="https://www.linkedin.com/in/thevni-thinesa-2b066a240/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thevni-thinesa" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/profile.php?id=100092198140103&mibextid=ZbWKwL" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thevni thinesa" height="30" width="40" /></a>
-</p>
+    <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
   </td>
 </tr>
 </table>
 
+
+<div>
+  <h3 align="center">Connect with me:</h3>
+    <p align="center">
+    <a href="https://www.linkedin.com/in/thevni-thinesa-2b066a240/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thevni-thinesa" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/profile.php?id=100092198140103&mibextid=ZbWKwL" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thevni thinesa" height="30" width="40" /></a>
+</p>
+</div>
 
 ---
 
@@ -133,13 +147,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=thevni-thinesa&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=thevni-thinesa&theme=light&show_icons=true&count_private=true" />
   <!--<br></br>-->
   <!--<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thevni-thinesa&theme=dark&hide_border=false" /> -->
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thevni-thinesa&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thevni-thinesa&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
   
   </td>
