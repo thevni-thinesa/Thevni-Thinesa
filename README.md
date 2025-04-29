@@ -24,7 +24,7 @@
   <tr border="none">
     <td align="center">
 
-🌱 I’m currently learning **React, Angular**
+🌱 I’m currently learning **React**
 
 🧑‍🎓 I’m an Undergraduate at **NIBM**
 
